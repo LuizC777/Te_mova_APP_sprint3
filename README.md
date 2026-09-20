@@ -72,31 +72,31 @@ Um chamado interrompido volta para a lista de disponíveis e pode ser retomado. 
 **Home.** Exibe o chamado disponível com horário da solicitação, altura da grama medida contra o limite de 10 cm, urgência e quilômetro da rodovia. A barra de altura muda para amarelo ao ultrapassar 80% do limite. Conforme o estado do chamado, a mesma aba passa a mostrar a navegação ou a execução.
 
 
-<img width="494" height="911" alt="Image" src="https://github.com/user-attachments/assets/f1350b27-8b7a-4fb3-a5ed-d1c92a5fe97c" />
+<img  height="600" alt="Image" src="https://github.com/user-attachments/assets/f1350b27-8b7a-4fb3-a5ed-d1c92a5fe97c" />
 
 
 **Rota.** Instrução de manobra no topo, mapa com o traçado e o veículo em deslocamento, e painel com distância, tempo restante e horário previsto de chegada. O percurso simulado leva 90 segundos.
 
 
-<img width="494" height="911" alt="Image" src="https://github.com/user-attachments/assets/64ad73f3-d224-47b2-8bcb-55a7cf4bdeee" />
+<img  height="600" alt="Image" src="https://github.com/user-attachments/assets/64ad73f3-d224-47b2-8bcb-55a7cf4bdeee" />
 
 
 **Execução.** Cronômetro contínuo, mapa focado no trecho designado com a faixa de acostamento destacada, e as opções de interromper ou concluir. A conclusão exige foto e registro da altura final.
 
 
-<img width="494" height="911" alt="Image" src="https://github.com/user-attachments/assets/cf4062b8-19c4-4143-8799-804d41b454ab" />
+<img  height="600" alt="Image" src="https://github.com/user-attachments/assets/cf4062b8-19c4-4143-8799-804d41b454ab" />
 
 
 **Equipe.** Operadores da equipe DELTA, com destaque para o encarregado, além do modelo e placa do veículo.
 
 
-<img width="494" height="911" alt="Image" src="https://github.com/user-attachments/assets/a1c23e81-010a-403e-b98f-f8b4d5f3715b" />
+<img  height="600" alt="Image" src="https://github.com/user-attachments/assets/a1c23e81-010a-403e-b98f-f8b4d5f3715b" />
 
 
 **Histórico.** Registros agrupados por mês e por dia, em cards compactos com horário, duração, altura final, equipe e quilômetro. Serviços em andamento aparecem no topo com borda colorida.
 
 
-<img width="494" height="911" alt="Image" src="https://github.com/user-attachments/assets/b34757b9-b0b6-45ff-b22f-e8c551de1c0b" />
+<img  height="600" alt="Image" src="https://github.com/user-attachments/assets/b34757b9-b0b6-45ff-b22f-e8c551de1c0b" />
 
 
 ## Arquitetura
